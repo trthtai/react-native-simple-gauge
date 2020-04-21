@@ -34,7 +34,9 @@
   "homepage": "https://github.com/nerdyfactory/react-native-simple-gauge",
   "devDependencies": {
     "@react-native-community/eslint-config": "^0.0.5",
-    "@react-native-community/art": "^1.2.0",
     "eslint": "^6.1.0"
+  },
+  "dependencies": {
+    "@react-native-community/art": "^1.2.0"
   }
 }
